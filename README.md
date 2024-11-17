@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## Name:Roshan G
+## Reg:212223040176
 # AIM 
 To write a python program to perform stop and wait protocol
 # ALGORITHM
